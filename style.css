@@ -1,0 +1,4 @@
+#wpadminbar #wp-admin-bar-wp-game>.ab-item:before {
+content: '\f328';
+top: 2px;
+}
